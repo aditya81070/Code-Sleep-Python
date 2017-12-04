@@ -35,7 +35,7 @@ We are glad to partner with IIT Kharagpur as a part of the Kharagpur Winter of C
 ## Projects
 
 * [Tic-Tac-Toe](https://github.com/prateekiiest/Code-Sleep-Python#tic-tac-toe)
-* [Hangman](https://github.com/prateekiiest/Code-Sleep-Python#Hangman)
+* [Hangman](https://github.com/prateekiiest/Code-Sleep-Python#hangman)
 * [Caesar-Cipher](https://github.com/prateekiiest/Code-Sleep-Python#caesar-cipher)
 * [Translations of Hamlet](https://github.com/prateekiiest/Code-Sleep-Python#translations-of-hamlet)
 * [Classification](https://github.com/prateekiiest/Code-Sleep-Python#classification)
